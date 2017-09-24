@@ -1,0 +1,22 @@
+{
+  "cricketers": [
+    {
+      "id": "1",
+      "name": "Sachin Tendulkar",
+      "age": 40,
+      "profession": "Cricketer"
+    },
+    {
+      "id": "2",
+      "name": "Saurav Ganguly",
+      "age": 39,
+      "profession": "Cricketer"
+    },
+    {
+      "id": "3",
+      "name": "Virendra Sehwag",
+      "age": 38,
+      "profession": "Cricketer"
+    }
+  ]
+}
